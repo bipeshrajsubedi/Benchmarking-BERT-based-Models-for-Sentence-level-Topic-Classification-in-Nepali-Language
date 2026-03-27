@@ -50,7 +50,7 @@ We benchmarked the following transformer-based models:
 ### English Model
 - RoBERTa  
 
-🔗 **Model Links:** *(Add here)*
+🔗 **Model Links:** *https://hf.co/collections/ilprl-docse/benchmarking-bert-based-models-for-topic-classification*
 
 ---
 
