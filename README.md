@@ -26,7 +26,7 @@ The dataset consists of **25,006 Nepali sentences** categorized into five domain
 
 The dataset is balanced across all categories.
 
-🔗 **Dataset Link:** *(Add here)*
+🔗 **Dataset Link:** *[(Add here)](https://huggingface.co/datasets/ilprl-docse/NepSen-Nepali-Categorical-Sentences-Corpus)*
 
 ---
 
