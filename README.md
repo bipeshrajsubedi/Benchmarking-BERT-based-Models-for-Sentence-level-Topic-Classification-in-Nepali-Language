@@ -112,6 +112,8 @@ Framework: 🤗 Hugging Face Transformers
 
 ## Citation
 
+Paper Link: https://arxiv.org/abs/2602.23940
+
 If you use this work, please cite:
 
 ```bibtex
